@@ -1,0 +1,28 @@
+.me{
+    display:inline-block;
+    text-align: right;
+    font-family:cursive;
+    border-radius: 20px;
+    padding-left: 200px;
+    width: 250px;
+     height: 150%;
+     -moz-border-radius: 0 50% / 0 100%;
+     -webkit-border-radius: 0 50% / 0 100%;
+     border-radius: 0 50% / 0 100%;
+     border: 3px solid rgb(249, 5, 5);    
+}
+.photo{
+    width: 100%;
+    height: 100%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+.logo{
+    width: 8%;
+    padding: 10px;
+    
+}
+.logo-main{
+    margin-left: px;
+}

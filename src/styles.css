@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1624268525908-ce2471940dc0?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(28, 27, 27);
+    color: white;
+    text-align: center;
+    margin-bottom: 1px;
+}
